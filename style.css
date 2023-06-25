@@ -58,10 +58,8 @@ nav {
     padding-block: 8px;
 }
 
-.company-logo {
-    text-decoration: none;
-    color: var(--primary-text-color);
-    cursor: pointer;
+.company-logo img {
+    width: 120px;
 }
 
 .nav-links ul {
@@ -127,7 +125,7 @@ main {
 .card {
     width: 360px;
     min-height: 400px;
-    box-shadow: 0 0 4px #ccd4db;
+    box-shadow: 0 0 4px #d4ecff;
     border-radius: 4px;
     cursor: pointer;
     background-color: #fff;
